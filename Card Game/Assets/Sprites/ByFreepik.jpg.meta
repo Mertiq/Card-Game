@@ -8,6 +8,9 @@ TextureImporter:
   - first:
       213: 2975052711618803350
     second: ByFreepik_1
+  - first:
+      213: 7149096686358960059
+    second: ByFreepik_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -146,6 +149,27 @@ TextureImporter:
       bones: []
       spriteID: 696f910cda2894920800000000000000
       internalID: 2975052711618803350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ByFreepik_2
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 905
+        width: 918
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb719570f81b63360800000000000000
+      internalID: 7149096686358960059
       vertices: []
       indices: 
       edges: []
